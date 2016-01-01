@@ -1,0 +1,91 @@
+**Project Description**
+
+
+_________________________________________________________________
+
+**Date**: 26 December 2015 
+**Time**: 1pm - 3:30pm
+**Hours**: 2.5
+
+**Notes**: 
+- Regressions!
+
+_________________________________________________________________
+
+**Date**: 24 December 2015 
+**Time**: 4:30am-5:30am
+**Hours**: 1, 
+
+**Notes**: 
+- More data cleaning
+
+_________________________________________________________________
+
+
+**Date**: 23 December 2015
+**Time**: 12-1am, 1:30am-2am
+**Hours**: 1, .5, 
+
+**Notes**:
+- Read some papers
+- Wrote a short literature review
+
+_________________________________________________________________
+
+
+**Date**: 21 December 2015
+**Time**: 5pm - 7pm, 12-1am
+**Hours**: 2, 1, 
+
+**Notes**:
+- Debugged script written yesterday
+- Checked data 
+
+
+_________________________________________________________________
+
+
+**Date**: 8 December 2015 
+**Time**: 2-4:30am
+**Hours**: 2.5
+
+**Notes**: 
+- Wrote script to geocode firm addresses
+- Ran script---played around with ArcGIS geocoding API
+
+_________________________________________________________________
+
+
+**Date**: 27 November 2015 
+**Time**: 2 - 2:50pm
+**Hours**: .83
+
+**Notes**: 
+- Contacted data source---asked about strange duplicates in city id
+- 
+
+_________________________________________________________________
+
+
+**Date**: 16 November 2015 
+**Time**: 2-3am, 12-1:30pm
+**Hours**: 1, 1.5
+
+**Notes**: 
+- Merged city-level and geographic characteristics datasets
+- Created labels for variables
+- Created codebook and read-me files explaining output
+
+_________________________________________________________________
+
+
+**Date**: 5 November 2015
+**Time**: 7 - 8pm
+**Hours**: 1
+
+**Notes**: 
+- General administrative work
+- Explored dataset to become familiar with structure
+
+_________________________________________________________________
+
