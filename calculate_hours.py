@@ -1,5 +1,3 @@
-#To Do:
-# put this on GitHub
 
 import re
 import argparse
