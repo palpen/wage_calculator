@@ -1,21 +1,21 @@
 # Wage Calculator
-This is a simple system that will help you take notes on your activity and keep track of the hours you've worked. The python script will tabulate your hours by month and calculate your income.
+This is a simple system for research assistants for taking notes on your activity and keeping track of the hours you've worked. The python script will tabulate your hours by month and calculate your income.
 
-## How to use these files
+### How to use these files
 
 Simple! Create a textfile much like the [sample log](https://github.com/palpen/wage_calculator/blob/master/sample_log.txt) in this repository. Each entry should be formatted like the sample below
 
     **Date**: 21 December 2015
     **Time**: 5pm - 7pm, 12-1am
-    **Hours**: 2, 1, 
+    **Hours**: 2, 1
 
     **Notes**:
     + Debugged script written yesterday
     + Checked data 
 
-The script depends on **Date** and **Hours** and their exact ordering to work. Other than that, it is fairly flexible. The only other requirement is that the year is four digits (to distinguish it from the day). The hours during each session may be delimited using any common delimiter (comma, space, semi-colon). There are no restrictions on how log entries under **Notes** are entered (you can write paragraphs if you wish).
+The script depends on \*\*Date\*\* and \*\*Hours\*\* and their exact ordering to work. Other than that, it is fairly flexible. The only other requirement is that the year is four digits (to distinguish it from the day). The hours during each session may be delimited using any common delimiter (comma, space, semi-colon). There are no restrictions on how log entries under \*\*Notes\*\* are entered (you can write paragraphs if you wish).
 
-## Calculating hours and total wages for a month
+### Calculating hours and total wages for a month
 
 When the time comes for you to calculate your wage  for the month execute the following in the command line
 
@@ -27,9 +27,10 @@ For the example using the sample log
 
 The output of this entry is
 
-IMAGE OF OUTPUT--- see screen shot
+![Alt text][id]
 
-
-## To Do:
+### To Do:
 - Get hours worked from time
 - Allow calculation of hours and wages for multiple months
+
+[id]: img/output_term.png
