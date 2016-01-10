@@ -17,20 +17,20 @@ The script depends on \*\*Date\*\* and \*\*Hours\*\* and their exact ordering to
 
 ### Calculating hours and total wages for a month
 
-When the time comes for you to calculate your wage  for the month execute the following in the command line
+When the time comes for you to calculate your wage for the month, make sure that the python script is in the same directory as your log, then execute the following in the command line
 
-    python calculate_hours.py my_log.txt MONTH YEAR HOURLY_WAGE
+    python calculate_hours.py MY_LOG.txt MONTH YEAR HOURLY_WAGE
 
-For the example using the sample log
+For the example, calculating total hours and wages for December 2015 using the sample_log.txt we execute
 
     python calculate_hours.py sample_log.txt December 2015 25
 
-The output of this entry is
+The output for which is
 
 ![Alt text][id]
 
 ### To Do:
-- Get hours worked from time
+- Get hours worked from \*\*Time\*\*
 - Allow calculation of hours and wages for multiple months
 
 [id]: img/output_term.png
