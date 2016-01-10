@@ -32,7 +32,7 @@ def wage_calculator(log_txt_file, month, year, wage):
 
 	hours_total = sum(hours_full)
 
-	print "Total hours worked in {0} {1} is {2}".format(month, year, 														hours_total)
+	print "Total hours worked in {0} {1} is {2}".format(month, year, hours_total)
 	print "At ${0}/hr, your total wage for {1} {2} is ${3}".format(wage, month, year, hours_total * wage)
 
 
@@ -41,9 +41,9 @@ def main():
 	parser = argparse.ArgumentParser()
 
 	parser.add_argument("file",
-						help="Text file containing hours logged (e.g. ra_hours.txt)",
-						type=argparse.FileType('r')
-						)
+	                    help="Text file containing hours logged (e.g. ra_hours.txt)",
+	                    type=argparse.FileType('r')
+	                    )
 	parser.add_argument("month",
 						help="The month for which we want the income",
 						type=str)
