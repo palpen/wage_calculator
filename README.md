@@ -1,5 +1,5 @@
 # Wage Calculator
-This is a simple system for research assistants for taking notes on your activity and keeping track of the hours you've worked. The python script will tabulate your hours by month and calculate your income.
+This is a simple system for taking notes and tracking hours worked. The python script will tabulate your hours by month and calculate your income.
 
 ### How to use these files
 
