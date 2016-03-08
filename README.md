@@ -17,7 +17,7 @@ The script depends on \*\*Date\*\* and \*\*Hours\*\* and their exact ordering to
 
 ### Calculating hours and total wages for a month
 
-When the time comes for you to calculate your total hours and wages for the month, make sure that the python script is in the same directory as your log, then execute the following in the command line
+When the time comes for you to calculate your total hours and wages for the month, move the python script to the same directory as your log, then execute the following in the command line
 
     python calculate_hours.py MY_LOG.txt MONTH YEAR HOURLY_WAGE
 
