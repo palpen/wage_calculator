@@ -32,5 +32,6 @@ The output for which is
 ### To Do:
 - Get hours worked from \*\*Time\*\*
 - Allow calculation of hours and wages for multiple months
+- Allow abbreviations of month and year (e.g. Dec '16)
 
 [id]: img/output_term.png
